@@ -1,0 +1,16 @@
+D:\FacultateAn3\dotNET\Lab1\Lab1\bin\Debug\net5.0\Lab1.exe
+D:\FacultateAn3\dotNET\Lab1\Lab1\bin\Debug\net5.0\Lab1.deps.json
+D:\FacultateAn3\dotNET\Lab1\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.json
+D:\FacultateAn3\dotNET\Lab1\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.dev.json
+D:\FacultateAn3\dotNET\Lab1\Lab1\bin\Debug\net5.0\Lab1.dll
+D:\FacultateAn3\dotNET\Lab1\Lab1\bin\Debug\net5.0\ref\Lab1.dll
+D:\FacultateAn3\dotNET\Lab1\Lab1\bin\Debug\net5.0\Lab1.pdb
+D:\FacultateAn3\dotNET\Lab1\Lab1\obj\Debug\net5.0\Lab1.csproj.AssemblyReference.cache
+D:\FacultateAn3\dotNET\Lab1\Lab1\obj\Debug\net5.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\FacultateAn3\dotNET\Lab1\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfoInputs.cache
+D:\FacultateAn3\dotNET\Lab1\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfo.cs
+D:\FacultateAn3\dotNET\Lab1\Lab1\obj\Debug\net5.0\Lab1.csproj.CoreCompileInputs.cache
+D:\FacultateAn3\dotNET\Lab1\Lab1\obj\Debug\net5.0\Lab1.dll
+D:\FacultateAn3\dotNET\Lab1\Lab1\obj\Debug\net5.0\ref\Lab1.dll
+D:\FacultateAn3\dotNET\Lab1\Lab1\obj\Debug\net5.0\Lab1.pdb
+D:\FacultateAn3\dotNET\Lab1\Lab1\obj\Debug\net5.0\Lab1.genruntimeconfig.cache
